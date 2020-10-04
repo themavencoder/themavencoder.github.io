@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 THEME = 'themes/Flex' 
 BROWSER_COLOR = '#333333'
 PYGMENTS_STYLE = 'default' 
-SITELOGO = 'images/profile.png'
+SITELOGO = 'output/theme/img/profile.png'
 
 # Blogroll
 LINKS = (('Website', 'tobilobaadejumo.com'),
